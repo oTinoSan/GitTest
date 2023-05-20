@@ -1,1 +1,1 @@
-print("the second part of san")
+print("the second part of tinosan")
